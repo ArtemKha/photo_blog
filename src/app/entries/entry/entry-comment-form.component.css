@@ -1,0 +1,33 @@
+
+.alert {
+    background-color: #cdcdcd;
+    color: #000;
+}
+
+.alert.alert-danger {
+    background-color: #9a0000;
+    color: #fff;
+}
+
+form {
+  margin-top: 2em;
+}
+div {
+    padding: .5em 0;
+}
+
+label {
+    display: block;
+}
+
+button {
+    background-color: #003f3f;
+    color: #fff;
+    padding: .5em .75em;
+}
+
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    height: 200px;
+}
